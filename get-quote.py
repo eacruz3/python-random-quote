@@ -7,7 +7,7 @@ def principal():
   f.close()
   last=13
   rnd=random.randint(0,last)
-  print(rnd)
+  print(quotes[rnd])
 
 if __name__== "__main__":
   principal()
