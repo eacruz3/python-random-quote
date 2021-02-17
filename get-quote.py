@@ -1,5 +1,5 @@
 def principal():
-  print("Keep it logically awesome.")
+  print("Mantenlo Lógicamente Impresionante.")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
